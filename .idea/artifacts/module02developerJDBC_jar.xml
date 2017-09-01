@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="module02developerJDBC:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/module02developerJDBC_jar</output-path>
+    <root id="archive" name="module02developerJDBC.jar">
+      <element id="module-output" name="module02developerJDBC" />
+      <element id="extracted-dir" path="C:/Program Files/Java/mysql-connector-java-5.0.8-bin.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/6.0.6/mysql-connector-java-6.0.6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
